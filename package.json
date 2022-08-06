@@ -19,7 +19,7 @@
     "typescript": "^4.7.4",
     "uuid": "^8.3.2"
   },
-  "homepage": "https://natikana.github.io/TasksIgnat",
+  "homepage": "https://natikana.github.io/taskIgnat",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
