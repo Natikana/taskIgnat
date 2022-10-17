@@ -10,7 +10,7 @@ export type ActionCheck = {
 }
 export type ActionType = ActionSort | ActionCheck
 
-export const homeWorkReducer = (state: UserType[], action: ActionType): UserType[] => { // need to fix any
+export const homeWorkReducer = (state: UserType[], action: ActionType): UserType[] => { // /need to fix any
 
     switch (action.type) {
         case 'sort': {
